@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PORTFOLIO on Ben Clarke</title>
+    <link>https://example.com/portfolio/</link>
+    <description>Recent content in PORTFOLIO on Ben Clarke</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample project</title>
+      <link>https://example.com/portfolio/rocketry/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://example.com/portfolio/rocketry/</guid>
+      <description>This project was part of my fourth year university capstone class. We participated at the Spaceport America Cup in the 30k ft COTS category and reached almost 27000 ft!
+Check out our launch!
+
+More cool pictures from New Mexico</description>
+    </item>
+    
+    <item>
+      <title>Sample project</title>
+      <link>https://example.com/portfolio/sample-project/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://example.com/portfolio/sample-project/</guid>
+      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Second project</title>
+      <link>https://example.com/portfolio/second-project/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://example.com/portfolio/second-project/</guid>
+      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Second project</title>
+      <link>https://example.com/portfolio/third-project/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://example.com/portfolio/third-project/</guid>
+      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>TRIUMF TR13 Cyclotron</title>
+      <link>https://example.com/portfolio/triumf/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://example.com/portfolio/triumf/</guid>
+      <description>This project was part of the Life Sciences division of TRIUMF to develop a solid target quick-release for their TR13 Cyclotron. It increased production for medical isotopes for the BC Cancer Agency!</description>
+    </item>
+    
+  </channel>
+</rss>
